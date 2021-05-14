@@ -1,0 +1,14 @@
+.scarlett_home__card{
+    height: 100px;
+    border-radius: 20px;
+    box-shadow: 2px 4px rgba(138, 137, 137, 0.329);
+}
+.form-check-input:checked{
+    background-color: rgb(219, 28, 28);
+}
+.scarlett_home__select-form{
+    border: none;
+    background-color: rgb(216, 213, 213);
+    border-radius: 10px;
+    outline: none;
+}

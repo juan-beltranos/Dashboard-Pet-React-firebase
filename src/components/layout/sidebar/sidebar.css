@@ -1,0 +1,7 @@
+.dashboard__menu {
+  height: 100vh;
+  background: rgb(219, 28, 28);
+  border-radius: 20px;
+  margin-left: 10px;
+  box-shadow: 10px 10px 10px -6px rgb(179, 177, 177);
+}

@@ -1,0 +1,15 @@
+.header_dashboard__search {
+  width: 400px;
+  background-color: #ebeef3;
+  border-radius: 15px;
+  padding: 10px;
+  border: none;
+  text-decoration: inherit;
+}
+.fas {
+  color: rgba(0, 0, 0, 0.836);
+}
+.container {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}

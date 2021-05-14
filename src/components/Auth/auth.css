@@ -1,0 +1,40 @@
+.auth__main {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to left, rgb(245, 4, 205), rgb(53, 211, 250));
+}
+.auth__container {
+  background-color: white;
+  width: 350px;
+  height: 600px;
+  border-radius: 10px;
+ 
+}
+.auth__form {
+  width: 80%;
+}
+input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid rgb(207, 207, 207);
+  outline: none;
+}
+::-webkit-input-placeholder {
+  color: rgb(197, 197, 197);
+}
+.btn-login {
+  background: linear-gradient(to left, rgb(245, 4, 205), rgb(53, 211, 250));
+  border: none;
+  border-radius: 50px;
+  color: honeydew;
+  padding: 7px;
+}
+div .social .fa-facebook {
+  color: rgb(4, 74, 179) !important;
+}
+div .social .fa-twitter {
+  color: rgb(28, 182, 221) !important;
+}
+div .social .fa-envelope {
+  color: rgb(250, 53, 27) !important;
+}
